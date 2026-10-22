@@ -24,13 +24,14 @@ Desenvolvo projetos de sistemas web, automações e aplicações de IA, combinan
 | [Ayla — Agente de IA](https://github.com/robsonsantos87/portfolio-projetos/blob/main/ayla.md) | Agente comercial com qualificação de necessidades, registro de leads e transição para atendimento humano. MVP em evolução. |
 | [Nosso Financeiro](https://github.com/robsonsantos87/portfolio-projetos/blob/main/nosso-financeiro.md) | Importação de faturas, conferência e conciliação de lançamentos. Em desenvolvimento e homologação. |
 | [Studio IA Social](https://github.com/robsonsantos87/portfolio-projetos/blob/main/studio-ia-social.md) | Fundação de aplicação multiempresa com autenticação e perfis de acesso. Em desenvolvimento. |
+| [Portal de Educação](https://github.com/robsonsantos87/portfolio-projetos/blob/main/portal-educacao.md) | Estudo de caso anonimizado: módulo de gestão de instrutores, importação de dados, painel e perfis de acesso. Versão piloto documentada. |
 
 📁 **[Veja o portfólio completo e os estudos de caso](https://github.com/robsonsantos87/portfolio-projetos)**  
 🌐 **[Conheça a PotencI.A](https://potencia.site/)**
 
 ## Tecnologias presentes nos projetos
 
-`PHP` · `JavaScript` · `HTML` · `CSS` · `WordPress` · `MySQL` · `Supabase / PostgreSQL` · `Git / GitHub` · `APIs e integrações`
+`Python / FastAPI` · `PHP` · `JavaScript` · `HTML` · `CSS` · `WordPress` · `MySQL` · `Supabase / PostgreSQL` · `Git / GitHub` · `APIs e integrações`
 
 > A lista descreve ferramentas utilizadas nos projetos, sem pressupor nível avançado de proficiência em todas elas.
 
